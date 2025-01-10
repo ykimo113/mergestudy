@@ -1,2 +1,3 @@
-# mergestudy
-mergekit学習用ライブラリ
+# wip-mergekit
+
+mergekit学習用レポジトリ。
